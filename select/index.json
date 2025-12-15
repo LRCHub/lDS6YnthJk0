@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "π",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2025-12-15T12:36:19.101267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "π",
+      "artist": "Kate Bush",
+      "has_synced": false,
+      "path": "select/01_π_Kate_Bush.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Pi Song (100 Digits of π)",
+      "artist": "AsapSCIENCE",
+      "has_synced": true,
+      "path": "select/02_The_Pi_Song_(100_Digits_of_π)_AsapSCIENCE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Π. VANTABLACK",
+      "artist": "Damso",
+      "has_synced": true,
+      "path": "select/03_Π._VANTABLACK_Damso.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Pi Song 2.0 (200 Digits of Π)",
+      "artist": "AsapSCIENCE",
+      "has_synced": true,
+      "path": "select/04_The_Pi_Song_2.0_(200_Digits_of_Π)_AsapSCIENCE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Pi Song 2.0 (200 Digits of Π)",
+      "artist": "AsapSCIENCE",
+      "has_synced": false,
+      "path": "select/05_The_Pi_Song_2.0_(200_Digits_of_Π)_AsapSCIENCE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "π",
+      "artist": "Kate Bush",
+      "has_synced": true,
+      "path": "select/06_π_Kate_Bush.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Pi Song  (Memorize 100 Digits Of π) | SCIENCE SONGS",
+      "artist": "AsapSCIENCE",
+      "has_synced": true,
+      "path": "select/07_The_Pi_Song_(Memorize_100_Digits_Of_π)___SCIENCE_SONGS_AsapSCIENCE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Π. VANTABLACK",
+      "artist": "Damso",
+      "has_synced": true,
+      "path": "select/08_Π._VANTABLACK_Damso.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "π",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/09_π_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Pi Song  (Memorize 100 Digits Of π) | SCIENCE SONGS",
+      "artist": "AsapSCIENCE",
+      "has_synced": true,
+      "path": "select/10_The_Pi_Song_(Memorize_100_Digits_Of_π)___SCIENCE_SONGS_AsapSCIENCE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "π - Pai",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/11_π_-_Pai_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Φ.Γ.Π.",
+      "artist": "Καμένα Χαρτάκια",
+      "has_synced": false,
+      "path": "select/12_Φ.Γ.Π._Καμένα_Χαρτάκια.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "π",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_π_RADWIMPS.txt"
+    }
+  ]
+}
